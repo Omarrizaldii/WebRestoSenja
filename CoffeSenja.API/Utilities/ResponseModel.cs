@@ -2,7 +2,7 @@
 
 namespace CoffeSenja.API.Utilities
 {
-    public class ResponseCode
+    public class ResponseModel
     {
         public int StatusCode { get; set; }
 

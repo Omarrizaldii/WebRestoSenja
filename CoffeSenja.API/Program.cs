@@ -78,7 +78,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(x =>
     {
-        x.SwaggerEndpoint("/swagger/v1/swagger.json", "POSCafe API v1");
+        x.SwaggerEndpoint("/swagger/v1/swagger.json", "CoffeSenja API v1");
         x.DefaultModelExpandDepth(-1);
     });
 }

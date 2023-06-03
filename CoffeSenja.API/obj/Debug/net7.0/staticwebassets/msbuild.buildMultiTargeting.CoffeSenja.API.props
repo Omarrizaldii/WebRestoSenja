@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoffeSenja.API.props" />
+</Project>
